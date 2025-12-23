@@ -1,0 +1,43 @@
+{
+  "femme": {
+    "title": "Femme — Wikipédia",
+    "url": "https://fr.wikipedia.org/wiki/Femme",
+    "description": "Une femme est un être humain de sexe ou de genre féminin. Avant l'âge adulte, au stade infantile, on parle de fille. Il arrive cependant que le mot...",
+    "relatedQueries": [
+      "Femme au foyer",
+      "Histoire des femmes",
+      "Femme de ménage",
+      "Femmes de réconfort"
+    ],
+    "peopleAlsoAsk": [
+      {
+        "question": "Comment peut-on définir femme ?",
+        "answer": "Une femme est une personne de sexe féminin, souvent associée à des rôles sociaux et culturels spécifiques."
+      },
+      {
+        "question": "Qu'est-ce qu'une femme peut faire trois fois par jour et un homme une fois dans sa vie ?",
+        "answer": "C’est une blague : 'manger'."
+      },
+      {
+        "question": "Quelle est la définition de la femme selon la Bible ?",
+        "answer": "Dans la Genèse, la femme est créée à partir de la côte de l'homme comme son aide et son égale."
+      }
+    ]
+  },
+  "homme": {
+    "title": "Homme — Wikipédia",
+    "url": "https://fr.wikipedia.org/wiki/Homme",
+    "description": "L'homme est un être humain de sexe masculin. Il appartient à l'espèce Homo sapiens...",
+    "relatedQueries": [
+      "Homme moderne",
+      "Histoire des hommes",
+      "Homme de Cro-Magnon"
+    ],
+    "peopleAlsoAsk": [
+      {
+        "question": "Quelle est la différence entre homme et mâle ?",
+        "answer": "Mâle désigne le sexe biologique, tandis que homme désigne un individu humain de sexe masculin."
+      }
+    ]
+  }
+}
